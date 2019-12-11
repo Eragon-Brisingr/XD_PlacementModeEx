@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "Modules/ModuleManager.h"
+#include <Modules/ModuleManager.h>
 #include "XD_PlacementModeSettings.h"
 
 class FXD_PlacementModeExModule : public IModuleInterface

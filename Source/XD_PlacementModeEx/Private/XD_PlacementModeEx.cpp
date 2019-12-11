@@ -3,7 +3,7 @@
 #include "XD_PlacementModeEx.h"
 #include "XD_PlacementModeSettings.h"
 #include "ISettingsModule.h"
-#include "AssetRegistryModule.h"
+#include <AssetRegistryModule.h>
 #include "IAssetRegistry.h"
 
 #define LOCTEXT_NAMESPACE "FXD_PlacementModeExModuleExModule"

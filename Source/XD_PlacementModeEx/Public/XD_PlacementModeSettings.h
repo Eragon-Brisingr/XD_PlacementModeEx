@@ -3,9 +3,9 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "UObject/NoExportTypes.h"
-#include "SoftObjectPtr.h"
-#include "IPlacementModeModule.h"
+#include <UObject/NoExportTypes.h>
+#include <UObject/SoftObjectPtr.h>
+#include <IPlacementModeModule.h>
 #include "XD_PlacementModeSettings.generated.h"
 
 class AActor;
